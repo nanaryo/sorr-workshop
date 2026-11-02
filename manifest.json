@@ -1,0 +1,12 @@
+{
+  "kind": "marinara.personal-extension",
+  "version": 1,
+  "config": {
+    "name": "소르 작업실",
+    "version": "2.0.2",
+    "description": "원고 편집·번역과 서버 작업 결과 보관을 하나로 통합한 소르 작업실.",
+    "runtime": "client",
+    "capabilities": ["full_page_access"],
+    "jsPath": "extension.js"
+  }
+}
